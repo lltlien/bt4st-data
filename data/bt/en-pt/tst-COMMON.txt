@@ -1,0 +1,11 @@
+
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:201760:65119	65119
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:270400:82240	82240
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:360480:129600	129600
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:504320:24800	24800
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:533439:66400	66400
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:615680:89120	89120
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:718560:137599	137599
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:867199:153440	153440
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:1042400:293440	293440
+bt4st/data/mustc/en-pt/data/tst-COMMON/wav/ted_1096.wav:1338879:165920	165920

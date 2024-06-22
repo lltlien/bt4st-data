@@ -1,0 +1,11 @@
+
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:204000:56159	56159
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:272479:226080	226080
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:518400:141920	141920
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:667680:227840	227840
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:903360:59200	59200
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:973280:47840	47840
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:1035839:45919	45919
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:1087840:110080	110080
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:1210400:44160	44160
+bt4st/data/mustc/en-pt/data/dev/wav/ted_767.wav:1264480:100000	100000
